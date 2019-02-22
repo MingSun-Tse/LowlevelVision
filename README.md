@@ -1,5 +1,7 @@
 # LowlevelVision
-Collection of recent methods on low-level vision: Super-resolution, neural style transfer, denoising, debluring, inpainting, etc.
+A collection of recent methods on low-level vision: Super-resolution, neural style transfer, denoising, debluring, inpainting, etc.
+
+> About abbreviation: In the list below, `o` for oral, `w` for workshop, `s` for spotlight, `b` for best paper.
 
 ## Papers: Neural Style Transfer
 - 2017-IJCAI-[Demystifying neural style transfer](https://arxiv.org/pdf/1701.01036.pdf)
@@ -11,7 +13,7 @@ Collection of recent methods on low-level vision: Super-resolution, neural style
 - 2015-CVPR-[Learning to generate chairs with convolutional neural networks]()
 - 2015-CVPR-[Single image super-resolution from transformed selfexemplars]()
 - 2015-ICCV-[Deeply improved sparse coding for image super-resolution]()
-- 2015-TPAMI-[Image super-resolution using deep convolutional networks](https://arxiv.org/pdf/1501.00092.pdf)
+- 2015-PAMI-[Image super-resolution using deep convolutional networks](https://arxiv.org/pdf/1501.00092.pdf)
 - 2016-ICLR-[Super-resolution with deep convolutional sufficient statistics](https://arxiv.org/abs/1511.05666)
 - 2016-CVPR-[Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network]()
 - 2016-CVPR-[Accurate image super-resolution using very deep convolutional networks]()
@@ -32,5 +34,6 @@ Collection of recent methods on low-level vision: Super-resolution, neural style
 ## People (in alphabeta order)
 - [Chih-Yuan Yang](https://www.csie.ntu.edu.tw/~yangchihyuan/) @ NTU
 - [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/) @ Virginia Tech
-- [Wei-Sheng (Jason) Lai](http://graduatestudents.ucmerced.edu/wlai24/) @ UC Merced
 - [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/) @ UC Merced
+- [Wei-Sheng (Jason) Lai](http://graduatestudents.ucmerced.edu/wlai24/) @ UC Merced
+
