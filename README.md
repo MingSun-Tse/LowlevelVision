@@ -3,6 +3,9 @@ A collection of recent methods on low-level vision: Super-resolution, neural sty
 
 > About abbreviation: In the list below, `o` for oral, `w` for workshop, `s` for spotlight, `b` for best paper.
 
+
+- 2017-CVPR-[Adversarial discriminative domain adaptation]()
+
 ## Papers: Neural Style Transfer
 - 2017-IJCAI-[Demystifying neural style transfer](https://arxiv.org/pdf/1701.01036.pdf)
 
@@ -12,6 +15,7 @@ A collection of recent methods on low-level vision: Super-resolution, neural sty
 - 2014-Machine Vision and Applications-[Super-resolution: A comprehensive survey]()
 - 2015-CVPR-[Learning to generate chairs with convolutional neural networks]()
 - 2015-CVPR-[Single image super-resolution from transformed selfexemplars]()
+- 2015-NIPS-[Deep generative image models using a laplacian pyramid of adversarial networks]()
 - 2015-ICCV-[Deeply improved sparse coding for image super-resolution]()
 - 2015-PAMI-[Image super-resolution using deep convolutional networks](https://arxiv.org/pdf/1501.00092.pdf)
 - 2016-ICLR-[Super-resolution with deep convolutional sufficient statistics](https://arxiv.org/abs/1511.05666)
@@ -26,14 +30,4 @@ A collection of recent methods on low-level vision: Super-resolution, neural sty
 - 2018-ICLRo-[Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/pdf/1710.10196.pdf) [[OpenReview](https://openreview.net/forum?id=Hk99zCeAb&noteId=Hk99zCeAb)]
 - 2018-CVPRs-[FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_FSRNet_End-to-End_Learning_CVPR_2018_paper.pdf) [[code](https://github.com/tyshiwo/FSRNet)]
 - 2018.12-[A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) [[code](https://github.com/NVlabs/stylegan)] (The famous StyleGAN.)
-
-## Papers: Domain Adaptation
-- 2017-CVPR-[Adversarial discriminative domain adaptation]()
-
-
-## People (in alphabeta order)
-- [Chih-Yuan Yang](https://www.csie.ntu.edu.tw/~yangchihyuan/) @ NTU
-- [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/) @ Virginia Tech
-- [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/) @ UC Merced
-- [Wei-Sheng (Jason) Lai](http://graduatestudents.ucmerced.edu/wlai24/) @ UC Merced
 
