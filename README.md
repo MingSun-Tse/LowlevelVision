@@ -3,13 +3,18 @@ A collection of recent methods on low-level vision: Super-resolution, neural sty
 
 > About abbreviation: In the list below, `o` for oral, `w` for workshop, `s` for spotlight, `b` for best paper.
 
+## Papers
 
 - 2017-CVPR-[Adversarial discriminative domain adaptation]()
 
-## Papers: Neural Style Transfer
-- 2017-IJCAI-[Demystifying neural style transfer](https://arxiv.org/pdf/1701.01036.pdf)
+### Papers: GAN
+- 2018-ICSCCC-[Comparison on Generative Adversarial Networks – A Study]()
 
-## Papers: Super Resolution
+### Papers: Neural Style Transfer
+- 2017-IJCAI-[Demystifying neural style transfer](https://arxiv.org/pdf/1701.01036.pdf)
+- 2019-ISCAS-[Modern Architecture Style Transfer for Ruin or Old Buildings](https://ieeexplore.ieee.org/abstract/document/8702121)
+
+### Papers: Super Resolution
 - 2002-[Example-based superresolution]()
 - 2014-ECCV-[Single-image super-resolution: A benchmark]()
 - 2014-Machine Vision and Applications-[Super-resolution: A comprehensive survey]()
